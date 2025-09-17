@@ -27,3 +27,4 @@ def check_password(password):
 
 password = input("Enter a password: ")
 print(check_password(password))
+
